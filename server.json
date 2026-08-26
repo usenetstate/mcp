@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "websiteUrl": "https://netstate.co",
   "repository": {
-    "url": "https://github.com/stsqit/netstate-mcp",
+    "url": "https://github.com/usenetstate/mcp",
     "source": "github"
   },
   "icons": [
