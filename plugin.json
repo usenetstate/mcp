@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "netstate",
+  "version": "1.0.0",
+  "description": "Search 128 million official company registrations across every US state, DC, Puerto Rico and Canada.",
+  "author": {
+    "name": "Netstate",
+    "email": "hello@netstate.co",
+    "url": "https://netstate.co"
+  },
+  "homepage": "https://netstate.co",
+  "repository": "https://github.com/usenetstate/mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "company",
+    "secretary-of-state",
+    "business",
+    "search"
+  ]
+}
