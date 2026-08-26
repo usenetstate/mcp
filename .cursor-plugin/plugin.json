@@ -1,0 +1,17 @@
+{
+  "name": "netstate",
+  "description": "Search 128 million official company registrations across every US state, DC, Puerto Rico and Canada.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Netstate"
+  },
+  "homepage": "https://netstate.co",
+  "repository": "https://github.com/usenetstate/mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "company",
+    "secretary-of-state"
+  ],
+  "logo": "logo.png"
+}
