@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "co.netstate/netstate",
+  "title": "Netstate",
+  "description": "Search 128 million official company registrations across every US state, DC, Puerto Rico and Canada.",
+  "version": "1.0.0",
+  "websiteUrl": "https://netstate.co",
+  "repository": {
+    "url": "https://github.com/stsqit/netstate-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://netstate.co/assets/apple-touch-icon.png",
+      "mimeType": "image/png"
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://netstate.co/mcp"
+    }
+  ]
+}
